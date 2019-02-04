@@ -1,0 +1,2 @@
+1. A simplified version of blockchain distributed system.
+2. Utilized passive replication to fault tolerance.                                                                                                                                                                                                                        
